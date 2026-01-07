@@ -14,7 +14,7 @@ variable "vms"{
         version=string
         vmpassword=string
         vmusername=string
-        
+       # public_ip_address_id=string
 
 
     }))
